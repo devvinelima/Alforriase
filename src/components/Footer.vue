@@ -130,8 +130,11 @@ import Separator from "./ui/separator/Separator.vue";
         <div class="flex flex-col md:flex-row justify-between items-center gap-4">
           <h3 class="text-sm">&copy; 2026 Camila, Sua Astrologa.</h3>
           <p class="text-sm text-secondary-foreground/80">
-            Desenvolvido por Bravva Glow - Agência de marketing digital e tech
-          </p>
+  Desenvolvido por 
+  <a href="https://bravvaglow.com.br/" target="_blank" rel="noopener noreferrer" class="hover:underline transition-all">
+    Bravva Glow - Agência de marketing digital e tech
+  </a>
+</p>
         </div>
       </section>
     </div>
